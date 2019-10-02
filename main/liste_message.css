@@ -1,0 +1,43 @@
+.message{
+	margin-top: 1%;
+	margin-left: 6%;
+	margin-bottom: 1%;
+}
+
+.row .message{
+	padding-left: 0px;
+	padding-right: 0px;
+	background: linear-gradient(white,#A1A9AE);
+}
+
+.image-message{
+	max-width: 300px;
+	max-height: 600px;
+	margin-left: 10%;
+	border-radius: 12px !important;
+}
+
+.profil{
+	margin-left: 10% !important;
+}
+
+.profil-name{
+	margin-left: 30% !important;
+}
+
+.profil-frame{
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+
+.text-frame{
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
+
+.btn-answer{
+	margin-left: 93%;
+	margin-bottom: 1%;
+}

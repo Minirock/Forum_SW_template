@@ -1,0 +1,16 @@
+#liste-header-main{
+	background-color: #30718C;
+	color: #E6D8B7;
+	font-weight: bold;
+	text-align: center;
+}
+
+#liste-content{
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+
+.black-link{
+	color: black;
+}
